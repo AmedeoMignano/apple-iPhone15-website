@@ -1,12 +1,9 @@
-# React + Vite
+# Apple iPhone 15 Pro – React Demo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a visually-driven, single-page site created to replicate the look and feel of Apple’s iPhone 15 Pro product page.
 
-Currently, two official plugins are available:
+- Built with **React** for component-based structure and interactivity.
+- Styled using **Tailwind CSS**, enabling rapid development with utility classes.
+- Animations and scroll-triggered effects powered by **GSAP (GreenSock Animation Platform)** for smooth, engaging transitions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Feel free to explore and adapt this template for showcasing products, portfolios, or interactive experiences!
